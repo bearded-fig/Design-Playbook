@@ -33,6 +33,4 @@
     * [Research (Users & Design Options)](what-do-we-do-services/graphic-design/research-users-and-design-options.md)
     * [Product Branding](what-do-we-do-services/graphic-design/product-branding.md)
 * [How do you request something from us?](how-do-you-request-something-from-us.md)
-* [Research Repo](research-repo/README.md)
-  * [Downloads](research-repo/downloads.md)
 * [References & Resources](references-and-resources.md)
