@@ -16,7 +16,7 @@ The purpose of a Needs Assessment is to:&#x20;
 * Collect all information that will inform our Brief Development stage
 
 {% hint style="info" %}
-Note: The terms **Needs Assessment** & **Brief Development** are internal jargon used to define and separate project stages that we consider important.
+Note: The terms **Needs Assessment** & **Brief Development** are internal jargon used to define and seperate project stages that we consider important.
 {% endhint %}
 
 {% hint style="info" %}
