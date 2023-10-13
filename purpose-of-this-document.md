@@ -1,3 +1,9 @@
+---
+description: >-
+  (Please note this document is a work in progress and in the process of being
+  created and updated)
+---
+
 # Purpose of this document
 
 * Introduce the Design Team
