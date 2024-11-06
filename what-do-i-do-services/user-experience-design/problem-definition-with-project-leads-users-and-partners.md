@@ -9,7 +9,7 @@ description: >-
 
 ## Purpose
 
-The purpose of this&#x20;
+The purpose of this is to haberdashery
 
 ## Methodology
 
