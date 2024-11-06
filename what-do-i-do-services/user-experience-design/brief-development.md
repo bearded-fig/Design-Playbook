@@ -70,7 +70,7 @@ These thematic items are researched, confirmed or denied, then compiled and prio
 
 
 
-    [<mark style="background-color:blue;">See more here</mark>](problem-definition-with-project-leads-users-and-partners.md)
+    [<mark style="background-color:blue;">See more here</mark>](problem-statement-formulation-with-project-leads-users-and-partners.md)
 
 [^2]: This is an early engagement (or set of engagements) with our partner or client where we discuss what their needs are and what the perceived needs of their user are.&#x20;
 
@@ -83,7 +83,7 @@ These thematic items are researched, confirmed or denied, then compiled and prio
 
 
 
-    [<mark style="background-color:blue;">See more here</mark>](problem-definition-with-project-leads-users-and-partners.md)
+    [<mark style="background-color:blue;">See more here</mark>](problem-statement-formulation-with-project-leads-users-and-partners.md)
 
 [^5]: Testing a website or tool using a set of guidelines as a first pass to check that it complies with our basic usability principles.
 

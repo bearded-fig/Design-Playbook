@@ -9,7 +9,7 @@
     * [Research (Users)](what-do-i-do-services/user-experience-design/research-users.md)
     * [Needs Assessments](what-do-i-do-services/user-experience-design/needs-assessments.md)
     * [Brief Development](what-do-i-do-services/user-experience-design/brief-development.md)
-    * [Problem Definition With Project Leads, Users and Partners](what-do-i-do-services/user-experience-design/problem-definition-with-project-leads-users-and-partners.md)
+    * [Problem Statement Formulation With Project Leads, Users and Partners](what-do-i-do-services/user-experience-design/problem-statement-formulation-with-project-leads-users-and-partners.md)
     * [Develop User Personas](what-do-i-do-services/user-experience-design/develop-user-personas.md)
     * [Engagement](what-do-i-do-services/user-experience-design/engagement.md)
     * [User Journey Maps](what-do-i-do-services/user-experience-design/user-journey-maps.md)

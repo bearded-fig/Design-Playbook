@@ -5,14 +5,16 @@ description: >-
   Brief Development.
 ---
 
-# Problem Definition With Project Leads, Users and Partners
+# Problem Statement Formulation With Project Leads, Users and Partners
 
 ## Purpose
 
 The purpose of problem definition:
 
+* Defines user specific goals.
 * It is a way of building a concise description of what we are attempting to solve.&#x20;
-* It helps us create a working to-do list that specifically prioritises the challenges that our users face.
+* It helps us create a working to-do list that specifically prioritises the challenges that our users face by defining our deliverables relative to their needs.
+* Creates benchmarks for success
 
 ## Methodology
 
