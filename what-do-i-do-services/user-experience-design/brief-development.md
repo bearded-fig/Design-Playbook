@@ -40,7 +40,8 @@ These thematic items are researched, confirmed or denied, then compiled and prio
   * Create user personas to guide us to the correct user types
   * Engage with users to verify aspects discussed in the needs assessment.
   * Understand pain points from a user perspective
-  * Research the precedent and in some cases run a [**heuristic evaluation**](#user-content-fn-4)[^4] of competitor products
+  * Understand pain points from a user perspective - this is where we delve deeper into the [**problem definition**](#user-content-fn-4)[^4]
+  * Research the precedent and in some cases run a [**heuristic evaluation**](#user-content-fn-5)[^5] of competitor products
 
 ## Outputs
 
@@ -78,7 +79,13 @@ These thematic items are researched, confirmed or denied, then compiled and prio
 
 [^3]: SoW = Statement of Work which is effectively a work brief that outlines the goals that need to be achieved and the work that leads to achieving those goals.
 
-[^4]: Testing a website or tool using a set of guidelines as a first pass to check that it complies with our basic usability principles.
+[^4]: A process where we try to understand and prioritise the major challenges affecting our users that need to be addressed. It is very closely linked to Brief Development.
+
+
+
+    [<mark style="background-color:blue;">See more here</mark>](problem-definition-with-project-leads-users-and-partners.md)
+
+[^5]: Testing a website or tool using a set of guidelines as a first pass to check that it complies with our basic usability principles.
 
 
 

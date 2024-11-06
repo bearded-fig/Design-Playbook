@@ -40,7 +40,7 @@ Design thinking is an iterative problem-solving approach that helps to identify 
 
 </details>
 
-<figure><img src=".gitbook/assets/OCL Design Thinking Process.png" alt=""><figcaption><p>Our Design Thinking Process</p></figcaption></figure>
+<figure><img src=".gitbook/assets/OCL Design Thinking Process.png" alt=""><figcaption><p>The Iterative Design Thinking Process</p></figcaption></figure>
 
 <details>
 
