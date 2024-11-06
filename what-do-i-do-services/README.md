@@ -65,9 +65,9 @@ See more here (Graphic Design)
 
 <details>
 
-<summary>Engagement (Primary research)</summary>
+<summary>User Research &#x26; Engagement</summary>
 
-This is research conducted with actual or potential users of the tool or service being designed.  The primary goal here is to co-design a solution by taking our understanding beyond empathy and testing our thinking with real people.&#x20;
+This is research conducted with or about actual or potential users of the tool or service being designed.  The primary goal here is to co-design a solution by taking our understanding beyond empathy and finding as much as we can about our user base and testing our thinking with real people.&#x20;
 
 </details>
 
@@ -124,7 +124,7 @@ See more here (UI)
 
 <details>
 
-<summary>Research (Users &#x26; design options)</summary>
+<summary>Research (Early Stage &#x26; Design Options)</summary>
 
 This is a broad category that can encompass a wide range of tasks but all hinge around furthering our knowledge or skills related to the work that we do and how those outputs serve our users.
 
