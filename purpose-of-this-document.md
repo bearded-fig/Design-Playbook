@@ -1,15 +1,17 @@
 ---
 description: >-
-  (Please note this document is a work in progress and in the process of being
-  created and updated)
+  This document serves as both a design (UX) guide and a showcase via use cases
+  to
 ---
 
 # Purpose of this document
 
-* Introduce the Design Team
-* Contextualize the Design Team’s role as an OCL Domain
-* Summarize the various offerings the Design Team makes available
-* Detail what is required for these offerings to be produced
-* Indicate the anticipated effort and delivery timelines for each offering
-* Define the process of making requests for these to the Design Team
+* Introduce myself, Paul Figueira
+* Display how a designer could collaborate with other product development disciplines
+* Summarize some of the things I do as a UX/UI designer
+  * Includes some detail of what is required for these offerings to be produced
+  * Indicate the anticipated effort and delivery timelines for each offering
+* [Define the process of making requests for these to the Design Team](#user-content-fn-1)[^1]
 * Discuss the communication protocols for collaborative work
+
+[^1]: 
