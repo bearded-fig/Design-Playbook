@@ -1,9 +1,3 @@
----
-description: >-
-  Welcome to my Design Playbook.  This is a collection of my methods & process
-  with a CV at the end.
----
+# DESIGN DOMAIN MENU
 
-# PAUL FIG - DESIGN PLAYBOOK
-
-<figure><img src=".gitbook/assets/image_hero-banner_hi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo_ocl_vertical_cropped.png" alt=""><figcaption></figcaption></figure>

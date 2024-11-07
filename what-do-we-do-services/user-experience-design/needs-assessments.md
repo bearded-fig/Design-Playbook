@@ -9,18 +9,18 @@ description: >-
 
 ## Purpose
 
-The purpose of a Needs Assessment is to:&#x20;
+The purpose of a Needs Assessment is to:
 
 * Meet with the partner and listen to their requirements
 * Learn what their perception of the user needs are to be able to confirm when engagements and primary research take place
 * Collect all information that will inform our Brief Development stage
 
 {% hint style="info" %}
-Note: The terms **Needs Assessment** & **Brief Development** are internal jargon used to define and seperate project stages that we consider important.
+Note: The terms **Needs Assessment** & **Brief Development** are internal jargon used to define and separate project stages that we consider important.
 {% endhint %}
 
 {% hint style="info" %}
-This becomes the temporary Terms of Service (if the partner hasn’t given one). &#x20;
+This becomes the temporary Terms of Service (if the partner hasn’t given one).
 
 It is an important document as once it evolves in the Brief Development stage it lays out in broad strokes what is required from the OCL team and what is expected of the partner in the early stages of the project and relationship.
 {% endhint %}
@@ -39,7 +39,7 @@ It is an important document as once it evolves in the Brief Development stage it
 * Time to research the potential partner, users, topic and the task they are requesting of us
 
 {% hint style="info" %}
-As a point: it is not always critical for the Design team to be present or conduct a needs assessment, many members or our team are capable of doing it but we suggest that the Design Domain is involved where logically possible as the outcomes from these sessions directly feed into what we need to communicate to the rest of the team. &#x20;
+As a point: it is not always critical for the Design team to be present or conduct a needs assessment, many members or our team are capable of doing it but we suggest that the Design Domain is involved where logically possible as the outcomes from these sessions directly feed into what we need to communicate to the rest of the team.
 {% endhint %}
 
 ## Outputs
@@ -50,9 +50,9 @@ As a point: it is not always critical for the Design team to be present or condu
 
 <details>
 
-<summary><a href="https://docs.google.com/document/d/1Wf661EgFsbWShe9CZ-lXNYXZwlBOf955_ZDJ4SOkfz0/edit">UX Needs Assessment Questions  (Template)</a></summary>
+<summary><a href="https://docs.google.com/document/d/1Wf661EgFsbWShe9CZ-lXNYXZwlBOf955_ZDJ4SOkfz0/edit">UX Needs Assessment Questions (Template)</a></summary>
 
-* As A Note: This template is exactly that, a template which is meant only to be a guide to begin but should be developed and customised before the actual session by researching both the partner and the topic that we will be addressing. &#x20;
+* As A Note: This template is exactly that, a template which is meant only to be a guide to begin but should be developed and customised before the actual session by researching both the partner and the topic that we will be addressing.
 * Please see the output examples to understand how much the template set can change based on the context of the project.
 * Even though you have carried out research, the question style should not come from a place where we position ourselves as experts but rather one where we are at least a bit informed to be able to ask questions that bring out actionable results.
 * Try asking questions that draw out real world use cases or practical examples.

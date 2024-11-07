@@ -27,5 +27,4 @@ description: >-
 
 [Nielsen Norman Group (NN Group)](https://www.nngroup.com/)
 
-[UI Learn (Denis Zhelyazkov)](what-do-i-do-services/user-interface-design/)
-
+[UI Learn (Denis Zhelyazkov)](what-do-we-do-services/user-interface-design/)

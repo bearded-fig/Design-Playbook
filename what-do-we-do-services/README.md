@@ -9,7 +9,7 @@ description: >-
 
 ## Our Services
 
-Here is an alphabetical list of our services. If you follow the hyperlinks in each service you will find these items in their sub domain themes according to whether they are **UX**, **UI** or **Graphic Design** tasks. &#x20;
+Here is an alphabetical list of our services. If you follow the hyperlinks in each service you will find these items in their sub domain themes according to whether they are **UX**, **UI** or **Graphic Design** tasks.
 
 _Please note that some tasks can walk a blurred line between those three sub domain themes._
 
@@ -27,7 +27,7 @@ See more here (UX)
 
 <summary>Brief development</summary>
 
-This is linked to Needs Assessments and is where we carry out research based on the needs assessment and test early ideas with potential users through engagements and workshops.  This is also where we begin defining our project direction - which is subject to change as we learn more.
+This is linked to Needs Assessments and is where we carry out research based on the needs assessment and test early ideas with potential users through engagements and workshops. This is also where we begin defining our project direction - which is subject to change as we learn more.
 
 See more here (UX)
 
@@ -67,9 +67,9 @@ See more here (Graphic Design)
 
 <details>
 
-<summary>Engagement (Primary research)</summary>
+<summary>User Research &#x26; Engagement</summary>
 
-This is research conducted with actual or potential users of the tool or service being designed.  The primary goal here is to co-design a solution by taking our understanding beyond empathy and testing our thinking with real people.&#x20;
+This is research conducted with or about actual or potential users of the tool or service being designed.  The primary goal here is to co-design a solution by taking our understanding beyond empathy and finding as much as we can about our user base and testing our thinking with real people.&#x20;
 
 </details>
 
@@ -79,7 +79,7 @@ This is research conducted with actual or potential users of the tool or service
 
 Testing a website or tool using a set of guidelines as a first pass to check that it complies with our basic usability principles.\
 \
-&#x20;See more here (UX)
+See more here (UX)
 
 </details>
 
@@ -87,7 +87,7 @@ Testing a website or tool using a set of guidelines as a first pass to check tha
 
 <summary>Needs assessments</summary>
 
-This is an early engagement (or set of engagements) with our partner or client where we discuss what their needs are and what the perceived needs of their user are.  These get investigated further during Brief Development.
+This is an early engagement (or set of engagements) with our partner or client where we discuss what their needs are and what the perceived needs of their user are. These get investigated further during Brief Development.
 
 [See more here](user-experience-design/needs-assessments.md) (UX)
 
@@ -181,7 +181,7 @@ See more here (UX)
 
 <summary>Website development (Webflow)</summary>
 
-We are able to implement some designs via webflow as testable Minimal Viable Products (MVPs), Proof of Concepts (PoCs) and sometimes as finished products based on the complexity of the product and suitablity of that application.  We will generally turn to Webflow when a Content Management System (CMS) is needed.
+We are able to implement some designs via webflow as testable Minimal Viable Products (MVPs), Proof of Concepts (PoCs) and sometimes as finished products based on the complexity of the product and suitablity of that application. We will generally turn to Webflow when a Content Management System (CMS) is needed.
 
 See more here (UI)
 

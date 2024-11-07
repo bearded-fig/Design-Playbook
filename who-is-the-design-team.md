@@ -7,13 +7,27 @@ description: >-
 
 # Who is the Design Team?
 
-<div>
 
-<figure><img src=".gitbook/assets/Paul.png" alt="Picture of Paul the User Experience Designer &#x26; Design Domain Lead"><figcaption></figcaption></figure>
+
+<div align="center" data-full-width="false">
+
+<figure><img src=".gitbook/assets/GB Avatar - Paul.png" alt="Picture of Paul the User Experience Designer &#x26; Design Domain Lead"><figcaption></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Lerato.png" alt="Picture of Lerato the User Interface &#x26; Graphic Designer "><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GB Avatar - Lerato.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<div>
+
+<figure><img src=".gitbook/assets/GB Avatar - Benjine.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/GB Avatar - Stephanie.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+
 
