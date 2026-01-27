@@ -68,7 +68,7 @@ These thematic items are researched, confirmed or denied, then compiled and prio
 [^1]: This is an early engagement (or set of engagements) with our partner or client where we discuss what their needs are and what the perceived needs of their user are.&#x20;
 
     \
-    [<mark style="background-color:blue;">See more here</mark>](broken-reference)
+    [<mark style="background-color:blue;">See more here</mark>](/broken/pages/ym7olGUWK4T0iMDPSAbl)
 
 [^2]: SoW = Statement of Work which is effectively a work brief that outlines the goals that need to be achieved and the work that leads to achieving those goals.
 
@@ -82,4 +82,4 @@ These thematic items are researched, confirmed or denied, then compiled and prio
 
 
 
-    [<mark style="background-color:blue;">See more here</mark>](broken-reference)
+    [<mark style="background-color:blue;">See more here</mark>](/broken/pages/mlQRHwD9MGUzLdvfuSAp)

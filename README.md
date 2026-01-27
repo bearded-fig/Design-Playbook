@@ -1,3 +1,3 @@
 # DESIGN DOMAIN MENU
 
-<figure><img src=".gitbook/assets/logo_ocl_vertical_cropped.png" alt=""><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/OCLPrimary Logo - White.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/OCLPrimary Logo - Color.png" alt=""></picture><figcaption></figcaption></figure>
